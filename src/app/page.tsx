@@ -1,4 +1,5 @@
 import "./tailwind.css";
+
 export default function Home() {
-  return <div className="text-red-400">Hello World!</div>;
+  return <div>Hello World!</div>;
 }
